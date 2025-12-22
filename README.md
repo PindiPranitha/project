@@ -1,2 +1,2 @@
 # Project
-This projct was created from local system
+This projct was created from local system.
